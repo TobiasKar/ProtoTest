@@ -1,0 +1,1 @@
+ProtoCompiler\bin\protoc.exe --proto_path=ProtoFiles --csharp_out=ProtoFiles\CSharpOut --python_out=ProtoFiles\PythonOut messages.proto
